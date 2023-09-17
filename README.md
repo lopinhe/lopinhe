@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lopinhe
 - 👀 I’m interested WebDev & Games!
-- 📚 student at 42 Berlin und learning at FU Berlin
+- 📚 student at 42 Berlin und learning IT at FU Berlin
 - 🌱 I’m currently learning Go and C
 
 
