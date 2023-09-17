@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lopinhe
-- 👀 I’m interested WebDev & Games!
+- 👀 I’m interested in WebDev & Games!
 - 📚 student at 42 Berlin und learning IT at FU Berlin
 - 🌱 I’m currently learning Go and C
 
