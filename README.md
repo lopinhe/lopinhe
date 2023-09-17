@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lopinhe
-- 👀 I’m interested in exploring the world of code!
+- 👀 I’m interested WebDev & Games!
 - 📚 currently studying at FU Berlin and 42 Berlin
 - 🌱 I’m currently learning Go and C
 
