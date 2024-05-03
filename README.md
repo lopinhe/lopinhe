@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lopinhe
-- 👀 I’m interested in WebDev & Games!
 - 📚 Currently studying Software Development at 42 Berlin
 - 🌱 Go, C and Haskell
 
