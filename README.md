@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lopinhe
-- 📚 Currently studying Software Development at 42 Berlin
 - 🌱 Go, C and Haskell
 
 
